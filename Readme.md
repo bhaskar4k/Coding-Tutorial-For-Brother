@@ -80,7 +80,7 @@ There are already 25 people on the bus.
 We use + (plus) to add them together and find the total.
 
 
-**<h2>Third story — Pencils</h2>**
+<h2>Third story — Pencils</h2>
 
 int pencilsInBox = 20;
 int pencilsTaken = 7;
