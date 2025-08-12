@@ -54,11 +54,13 @@ class Arkajyoti {
 
 <h2>First story — Candies</h2>
 
+```
 int raviCandies = 15;
 int gaveAway = 4;
 int candiesLeft = raviCandies - gaveAway;
 System.out.println("Ravi has " + candiesLeft + " candies left.");
 Ravi starts with 15 candies.
+```
 
 He gives 4 candies to his friend.
 
@@ -69,11 +71,13 @@ Then we tell the computer to print the answer so we can see it.
 
 <h2>Second story — Bus</h2>
 
+```
 int busPassengers = 25;
 int newPassengers = 8;
 int totalPassengers = busPassengers + newPassengers;
 System.out.println("Now the bus has " + totalPassengers + " passengers.");
 There are already 25 people on the bus.
+```
 
 8 more people get in.
 
@@ -82,11 +86,13 @@ We use + (plus) to add them together and find the total.
 
 <h2>Third story — Pencils</h2>
 
+```
 int pencilsInBox = 20;
 int pencilsTaken = 7;
 int pencilsLeft = pencilsInBox - pencilsTaken;
 System.out.println("Pencils left in the box: " + pencilsLeft);
 The box starts with 20 pencils.
+```
 
 Somebody takes away 7 pencils.
 
@@ -95,11 +101,13 @@ We subtract to see what’s left.
 
 <h2>Fourth story — Pages Read</h2>
 
+```
 int pagesYesterday = 12;
 int pagesToday = 9;
 int totalPagesRead = pagesYesterday + pagesToday;
 System.out.println("Meena read a total of " + totalPagesRead + " pages.");
 Meena read 12 pages yesterday.
+```
 
 She read 9 pages today.
 
@@ -108,11 +116,13 @@ We add them to know the total.
 
 <h2>Fifth story — Shopping</h2>
 
+```
 int chocolatePrice = 10;
 int biscuitPrice = 5;
 int totalCost = chocolatePrice + biscuitPrice;
 System.out.println("Total cost: ₹" + totalCost);
 Chocolate costs ₹10.
+```
 
 Biscuit costs ₹5.
 
