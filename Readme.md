@@ -52,7 +52,7 @@ class Arkajyoti {
 
 # Explanation
 
-**##First story — Candies**
+**First story — Candies**
 
 int raviCandies = 15;
 int gaveAway = 4;
@@ -67,7 +67,7 @@ We use - (minus) to find out how many candies are left.
 Then we tell the computer to print the answer so we can see it.
 
 
-**##Second story — Bus**
+**Second story — Bus**
 
 int busPassengers = 25;
 int newPassengers = 8;
@@ -80,7 +80,7 @@ There are already 25 people on the bus.
 We use + (plus) to add them together and find the total.
 
 
-**##Third story — Pencils**
+**<h2>Third story — Pencils</h2>**
 
 int pencilsInBox = 20;
 int pencilsTaken = 7;
@@ -93,7 +93,7 @@ Somebody takes away 7 pencils.
 We subtract to see what’s left.
 
 
-**##Fourth story — Pages Read**
+**Fourth story — Pages Read**
 
 int pagesYesterday = 12;
 int pagesToday = 9;
@@ -106,7 +106,7 @@ She read 9 pages today.
 We add them to know the total.
 
 
-**##Fifth story — Shopping**
+**Fifth story — Shopping**
 
 int chocolatePrice = 10;
 int biscuitPrice = 5;
